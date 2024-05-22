@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onWindowChange",
+    "files.autoGuessEncoding": true,
+    "files.autoSaveWorkspaceFilesOnly": true
+}
