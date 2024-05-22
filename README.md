@@ -4,25 +4,26 @@
 ## Frontend Topics <br />
 <img src="./html/html.png" alt="HTML" width="450" height="300"> <br />
 - HTML (Hypertext Markup Language)
- here is the folder for more information about this.
+ here is the folder for more information about this.<br />
  <a href="./html/">All topics covered on HTML</a><br />
 <hr />
 
 <img src="./css/css.png" alt="HTML" width="450" height="300"><br />
 - CSS
-     here is the folder for more information about this.
+     here is the folder for more information about this.<br />
  <a href="./css/">All topics covered on HTML</a> 
  <br />
-- JavaScript
-- React
-- Angular
-- Vue.js
-- Frontend Frameworks and Libraries
-- Responsive Web Design
-- User Interface (UI) Design
-- User Experience (UX) Design
-- Web Accessibility
-- Web Performance Optimization
+- JavaScript<br />
+- React<br />
+- Angular<br />
+- Vue.js<br />
+<h1>Frontend Frameworks and Libraries </h1>
+<br />
+- Responsive Web Design<br />
+- User Interface (UI) Design<br />
+- User Experience (UX) Design<br />
+- Web Accessibility<br />
+- Web Performance Optimization<br />
 
 ## Backend Topics
 
