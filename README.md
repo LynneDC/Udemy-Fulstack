@@ -8,13 +8,13 @@
 <h2> HTML (Hypertext Markup Language) </h2>
 <img src="./html/html.png" alt="HTML" width="100%" height="300"> <br />
  here is the folder for more information about this.<br />
- <a href="./html/">All topics covered on HTML</a><br />
+ <a href="./html/README.md">All topics covered on HTML</a><br />
 <hr />
 <h2>CSS (Cascading Style Sheets) </h2>
 <img src="./css/css.png" alt="HTML" width="100%" height="300"><br />
 - 
      here is the folder for more information about this.<br />
- <a href="./css/">All topics covered on HTML</a> 
+ <a href="./css/README.md">All topics covered on CSS</a> 
  <br />
 - JavaScript<br />
 - React<br />
