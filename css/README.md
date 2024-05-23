@@ -46,7 +46,14 @@ CSS rules consist of selectors and declarations. Selectors specify which element
         <li>How to color take precidends using specificiy</li>
         <li>How to change how to change and fix text positing </li>
     </ul>
-    
+    <br />
+    <li><a  href="./MotivationMemeProject/">MOTIVATION MEME</a></li>
+    <br />
+    <ul>
+        <img src="./MotivationMemeProject/goal.png" alt="Motivation Meme" width="500" height="300"> <br />
+        <p>In this project we covered <ul> <li>how to change the position of an element using absolute positioning</li>
+        <li>How to change the position of an element using relative positioning</li> 
+    </ul>    
     2. Responsive Website Design<br >
     3. Landing Page Design<br >
     4. Portfolio Website<br >
