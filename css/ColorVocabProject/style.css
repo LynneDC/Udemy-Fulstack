@@ -1,0 +1,30 @@
+h2 {
+    color: #000000;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    
+}
+#red {
+    color: #ff0000;
+}
+#blue {
+    color: #0000ff;
+}
+#orange {
+    color: #ff6600;
+}
+#green {
+    color: #00ff00;
+}
+#yellow {
+    color: #ffff00;
+}
+.color-title{
+    font-weight: normal;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
