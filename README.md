@@ -1,15 +1,18 @@
 # Full Stack Development Course <br />
-<img src="./fullstack.jpg" alt="FULL STACK" width="450" height="300"> <br />
+<img src="./fullstack.jpg" alt="FULL STACK" width="100%" height="300px"> <br />
 <hr />
-## Frontend Topics <br />
-<img src="./html/html.png" alt="HTML" width="450" height="300"> <br />
-- HTML (Hypertext Markup Language)
+
+# Frontend Topics 
+
+<br />
+<h2> HTML (Hypertext Markup Language) </h2>
+<img src="./html/html.png" alt="HTML" width="100%" height="300"> <br />
  here is the folder for more information about this.<br />
  <a href="./html/">All topics covered on HTML</a><br />
 <hr />
-
-<img src="./css/css.png" alt="HTML" width="450" height="300"><br />
-- CSS
+<h2>CSS (Cascading Style Sheets) </h2>
+<img src="./css/css.png" alt="HTML" width="100%" height="300"><br />
+- 
      here is the folder for more information about this.<br />
  <a href="./css/">All topics covered on HTML</a> 
  <br />
@@ -25,7 +28,7 @@
 - Web Accessibility<br />
 - Web Performance Optimization<br />
 
-## Backend Topics
+# Backend Topics
 
 - Programming Languages (e.g., Node.js, Python, Ruby, Java)
 - Databases (SQL and NoSQL)
