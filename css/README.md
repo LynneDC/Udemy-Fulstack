@@ -30,12 +30,30 @@ CSS rules consist of selectors and declarations. Selectors specify which element
 - CSS Architecture (ITCSS, ACSS)
 
 ## Projects with CSS and HTML
-- Responsive Website Design
-- Landing Page Design
-- Portfolio Website
-- E-commerce Website
-- Blog or News Website
-- Admin Dashboard
-- Single Page Applications (SPAs)
-- CSS Art and Animations
-- CSS Games
+<ol>
+    <li> <a href="./ColorVocabProject/">COLOR VOCAB</a> </li><br />
+   <img src="./ColorVocabProject/goal.png" alt="Color Vocabulary" width="500" height="300"> <br />
+    <p>In this project we covered <ul> <li>how to change text color using id selector</li>
+        <li>How to change text sizes using class selector</li>
+        <li>How to change Image size using tag selector</li> 
+        </ul>
+        <br /> 
+    </p>
+    <li> <a href="./CSSFlagProject/"> THE FLAG </a> </li><br />
+        <img src="./CSSFlagProject/goal.png" alt="The Flag" width="500" height="300"> <br />
+        <p>In this project we covered <ul> <li>how to change background color using combining selector</li>
+        <li>How to create a shapeusing bolder radius </li>
+        <li>How to color take precidends using specificiy</li>
+        <li>How to change how to change and fix text positing </li>
+    </ul>
+    
+    2. Responsive Website Design<br >
+    3. Landing Page Design<br >
+    4. Portfolio Website<br >
+    5. E-commerce Website<br >
+    6. Blog or News Website<br >
+    7. Admin Dashboard<br >
+    8. Single Page Applications (SPAs)<br >
+    9. CSS Art and Animations<br >
+    10. CSS Games<br >
+</o.>
