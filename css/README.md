@@ -53,14 +53,18 @@ CSS rules consist of selectors and declarations. Selectors specify which element
         <img src="./MotivationMemeProject/goal.png" alt="Motivation Meme" width="500" height="300"> <br />
         <p>In this project we covered <ul> <li>how to change the position of an element using absolute positioning</li>
         <li>How to change the position of an element using relative positioning</li> 
-    </ul>    
-    2. Responsive Website Design<br >
-    3. Landing Page Design<br >
-    4. Portfolio Website<br >
-    5. E-commerce Website<br >
-    6. Blog or News Website<br >
-    7. Admin Dashboard<br >
-    8. Single Page Applications (SPAs)<br >
-    9. CSS Art and Animations<br >
-    10. CSS Games<br >
-</o.>
+    </ul>
+    <li><a href="./WebDesignAgencyProject/">Web Design Agency</a></li>
+    <br />
+    <img src="./WebDesignAgencyProject/goal.png" alt="Web Design Agency" width="500" height="300"> <br />
+    <p>In this project we covered 
+        <ul>
+            <li>how to change the position of an element using absolute positioning</li>
+            <li>How to change the position of an element using relative positioning</li>
+            <li>How to change the position of an element using fixed positioning</li>
+            <li>How to change the position of an element using sticky positioning</li>
+            <li>How to change the position of an element using flexbox</li>
+            <li>How to change the position of an element using grid</li>
+        </ul>
+    </p>
+</o>
