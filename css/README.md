@@ -79,7 +79,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <br />
     <img src="./FlexboxPricingTableProject/goal-large.png" alt="Pricing Table" width="300" height="300"> 
     <img src="./FlexboxPricingTableProject/goal-small.png" alt="Pricing Table" width="300" height="300" display="flex"> 
-    <br /><br>
+    <br>
     <p><b>In this project we covered</b>
         <ul>
             <li>how to change the position of an element using absolute positioning</li>
@@ -93,7 +93,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <li><a href="./MondrianPoject/">Mandrian Art</a></li>
     <img src="./MondrianPoject/goal.png" alt="goal" width="500px" height="300px">
     <br >
-    <p> <br>
+    <p>
         <b>In this project we covered</b>
         <ul>
             How to use css to grid <br>
