@@ -96,9 +96,20 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <p>
         <b>In this project we covered</b>
         <ul>
-            How to use css to grid <br>
-            How to style grid into artwork.<br>
-            How create art work
-        </u>
+           <li> How to use css to grid </li>
+           <li> How to style grid into artwork.</li>
+           <li>  How create art work</li> 
+        </ul>
+    </p>
+    <br >
+    <li><a href="./BootstrapIntro/">Bootstrap Intro</a></li>
+    <img src="./BootstrapIntro/goal.png" alt="goal" width="500px" height="300px"><br>
+    <p>
+        <b>IN THIS PROJECT WE COVERED</b>
+        <ul>
+            How to import bootstrap<br >
+            How to use bootstrap grid system<br >
+            How to use bootstrap card<br >
+        </ul>
     </p>
 </ol>
