@@ -33,7 +33,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
 <ol>
     <li> <a href="./ColorVocabProject/">COLOR VOCAB</a> </li><br />
    <img src="./ColorVocabProject/goal.png" alt="Color Vocabulary" width="500" height="300"> <br />
-    <p>In this project we covered 
+    <p><b>In this project we covered</b>
         <ul> 
             <li>how to change text color using id selector</li>
             <li>How to change text sizes using class selector</li>
@@ -43,7 +43,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     </p>
     <li> <a href="./CSSFlagProject/"> THE FLAG </a> </li><br />
         <img src="./CSSFlagProject/goal.png" alt="The Flag" width="500" height="300"> <br />
-        <p>In this project we covered 
+        <p><b>In this project we covered </b>
             <ul>
                 <li>how to change background color using combining selector</li>
                 <li>How to create a shapeusing bolder radius </li>
@@ -55,7 +55,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <li><a  href="./MotivationMemeProject/">MOTIVATION MEME</a></li>
     <br />
     <img src="./MotivationMemeProject/goal.png" alt="Motivation Meme" width="500" height="300"> <br />
-        <p>In this project we covered 
+        <p><b>In this project we covered </b>
             <ul> 
                 <li>how to change the position of an element using absolute positioning</li>
                 <li>How to change the position of an element using relative positioning</li> 
@@ -65,7 +65,7 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <li><a href="./WebDesignAgencyProject/">Web Design Agency</a></li>
     <br />
     <img src="./WebDesignAgencyProject/goal.png" alt="Web Design Agency" width="500" height="300"> <br />
-    <p>In this project we covered 
+    <p><b>In this project we covered </b>
         <ul>
             <li>how to use flexbox properties</li>
             <li>How to target text and make it different using span</li>
@@ -79,8 +79,8 @@ CSS rules consist of selectors and declarations. Selectors specify which element
     <br />
     <img src="./FlexboxPricingTableProject/goal-large.png" alt="Pricing Table" width="300" height="300"> 
     <img src="./FlexboxPricingTableProject/goal-small.png" alt="Pricing Table" width="300" height="300" display="flex"> 
-    <br />
-    <p>In this project we covered
+    <br /><br>
+    <p><b>In this project we covered</b>
         <ul>
             <li>how to change the position of an element using absolute positioning</li>
             <li>How to change the position of an element using relative positioning</li>
@@ -90,4 +90,15 @@ CSS rules consist of selectors and declarations. Selectors specify which element
         </ul>
     </p>  
     <br />
+    <li><a href="./MondrianPoject/">Mandrian Art</a></li>
+    <img src="./MondrianPoject/goal.png" alt="goal" width="500px" height="300px">
+    <br >
+    <p> <br>
+        <b>In this project we covered</b>
+        <ul>
+            How to use css to grid <br>
+            How to style grid into artwork.<br>
+            How create art work
+        </u>
+    </p>
 </ol>
